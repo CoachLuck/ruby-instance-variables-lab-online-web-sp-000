@@ -1,3 +1,3 @@
 class Dog
-  attr_accessor :name
+  attr_accessor :this_dogs_name
 end
